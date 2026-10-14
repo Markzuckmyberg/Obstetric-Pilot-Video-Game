@@ -1,0 +1,40 @@
+ECLAMPSIA
+
+Kit neonatal100%
+
+Puntos0
+
+Extrayendo…
+
+100
+
+WASD mover · Ratón apuntar · Clic disparar · 1/2 arma · F kit · Shift correr · P pausa
+
+# Código RojoMATERNIDAD
+
+Un fallo biocientífico alteró las hormonas de pacientes y personal. El hospital está en cuarentena. Atraviesa cinco sectores con tu equipo, protege el kit de reanimación neonatal y aprende obstetricia en el camino.
+
+### Elige tu especialista
+
+Selecciona un especialista para empezar.
+
+### Controles
+
+- WASD mover · Shift correr
+- Ratón apuntar · clic izquierdo disparar
+- 1 pistola · 2 escopeta · F soltar/recoger kit
+- Flechas: girar la cámara si el ratón no se bloquea · P pausa · M silencio
+
+### Proteger la carga
+
+Llevar el kit te impide disparar. Suéltalo con F para pelear y vuélvelo a recoger. Cada golpe que recibes mientras lo cargas daña la incubadora; si llega a 0%, la misión fracasa.
+
+### Infectados en este sector
+
+### Para recordar
+
+### Sector superado
+
+## Pausa
+
+El hospital puede esperar unos segundos.
